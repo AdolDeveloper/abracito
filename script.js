@@ -6,7 +6,7 @@ setTimeout(function() {
 setTimeout(function() {
 
     const message2 = document.getElementById('result2');
-    message2.innerHTML = "La Amo Muchote Mi Niña <3"
+    message2.innerHTML = "Te Quiero Muchote Mi Niña <3"
 }, 6800);
 setTimeout(function() {
     const message = document.getElementById('state-message');
